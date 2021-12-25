@@ -1,6 +1,6 @@
 # SimpleIkFootPlacement
 
-This is the simplest implementation of the ik foor placement algorithm.
+This is the simplest implementation of the ik foot placement algorithm.
 
 -This implementation only works for humanoid rigs
 
